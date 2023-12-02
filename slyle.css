@@ -39,3 +39,11 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.negrito {
+    font-weight: bold;
+}
+
+.itálico {
+    font-style: italic;
+}

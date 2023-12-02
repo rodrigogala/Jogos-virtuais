@@ -4,11 +4,30 @@ body {
     margin: 20px;
   }
   
+  header {
+    text-align: center;
+  }
+  
+  .image-container {
+    text-align: center;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    display: inline-block;
+  }
+  
   p {
     font-style: italic;
   }
   
   strong {
     font-weight: bold;
+  }
+  
+  footer {
+    text-align: center;
+    margin-top: 20px;
   }
   
